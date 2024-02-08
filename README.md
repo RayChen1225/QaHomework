@@ -77,4 +77,6 @@ Framework follows many of the industry best practices and supports Android in a 
 9. After all test execution is done, you could see detailed test report in catalog "target".
    ![](doc/test-report.png)
 
+10. You could check related test cases loacated at "/QaHomework/tree/main/src/test/resources".
+
    
